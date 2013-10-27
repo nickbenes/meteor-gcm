@@ -1,0 +1,8 @@
+{
+  "name": "gcm",
+  "description": "Meteor package wrapping node-gcm for Google Cloud Messaging",
+  "homepage": "https://github.com/nickbenes/meteor-gcm.git",
+  "author": "Nick Benes",
+  "version": "0.1.0",
+  "git": "https://github.com/nickbenes/meteor-gcm.git"
+}
