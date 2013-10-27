@@ -11,7 +11,6 @@ Npm.depends({
 });
 
 Package.on_use(function (api, where) {
-    api.use('node-gcm');
     api.add_files("gcm.js", "server");
     api.export("Gcm", "server");
 });
